@@ -1,3 +1,2 @@
 #!/bin/bash
-u="root"
-echo "hello $u"
+echo "hello $USER"
